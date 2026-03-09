@@ -54,7 +54,7 @@ Análisis exhaustivo del dataset de películas de IMDB con más de 1.000 registr
 
 ### 1. Clona el repositorio
 ```bash
-git clone https://github.com/TU_USUARIO/EDA-IMDB-Movies.git
+git clone https://github.com/k3nray/EDA-IMDB-Movies.git
 cd EDA-IMDB-Movies
 ```
 
